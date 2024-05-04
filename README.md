@@ -2,12 +2,18 @@
 
 1. Download and install latest build of Official Tarkov
 2. After install and/or patching successfully play one offline game (at least you get to spawn in game then you can disconnect of the game and close it)
-3. Download SPT-AKI Installer from official site
+3. Download SPT-AKI Installer from [official site](https://ligma.waffle-lord.net/SPTInstaller.exe)
     - SPT-AKI Installer required some dependency such as .NET etc. you can install that beforehand or open up the program and click through "X" mark to install
 4. Create new folder called "SPT-AKI" and put SPT-AKI Installer into that folder
+    - Make sure that you have enough space for new copy of the game (at least 60GB)
 5. Now Installer will automatically find EFT location, copy, downgrade and install patcher on its own.
-6. After finished, copy and paste Fika files into X:/SPT-AKI 
-7. run Aki-server.exe once to make sure that Fika generate necessary files.
+6. After finished, copy and paste latest Modpack and Bundles files into X:/SPT-AKI 
+7. run Aki-server.exe once to make sure that Fika and mods generate necessary files. When its said "Happy Playing!!", close aki-server.exe
+8. run Aki-launcher.exe and click setting
+9. in URL put in http://ip-address:6969 in the box
+10. go back to the first page and you should be able to register an account
+11. put in your username and click "Login/Register" and select any starting pack (if you want to play Zero to Hero then select that!)
+12. Now you can click "Start" to play the game!
 
 
 # Change-Logs
