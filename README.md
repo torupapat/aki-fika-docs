@@ -19,7 +19,12 @@ Date 2024/05/04
 - Added Geff's Scope Overhaul SPT-380
 - Added SamSWAT EOTech Vudu Overhaul SPT-380
 - Added Fontaine FOV-Fix 1.11.0-SPT-3.8.0
-
+- Added WTT-Pack n' Strap
+- Added WTT-Head Voice Selector
+- Added WTT-The Long Lost Heads of Yojenkz
+- Added MoxoPixel-WarHeads-1.0.2
+- Added BRNVG 1.5.3 (Mods for realistic thermal goggles)
+- Added BBRTP 1.0.2 (Mods for thermal sight improvement)
 
 ### Client Side (BeplnEx/plugins)
 - Updated SPT Realism plugins to 1.1.2
@@ -32,7 +37,10 @@ Date 2024/05/04
 - Added ThatsLit (make bots have the same vision as players)
 - Added Use Items Anywhere (so players can assign hotkey anywhere)
 - Added Ram Cleaner Fix (make so the game not eating ram and trash everywhere)
-- 
+- Added WTT-Pack n' Strap's plugins
+- Added WTT-Head Voice Selector's plugins
+- Added WTT-The Long Lost Heads of Yojenkz's plugins
+- Added BRNVG 1.5.3 plugins
 
 ### Bundle Files
 - Replace broken files and .bundle files to stop showing unhandle in server logs
