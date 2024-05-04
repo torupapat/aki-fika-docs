@@ -12,6 +12,32 @@
 
 # Change-Logs
 
+## V0.2.0
+Date 2024/05/04
+### Server Side (user/mods or sometime BeplnEx)
+- Updated SPT Realism to 1.1.2
+- Added Geff's Scope Overhaul SPT-380
+- Added SamSWAT EOTech Vudu Overhaul SPT-380
+- Added Fontaine FOV-Fix 1.11.0-SPT-3.8.0
+
+
+### Client Side (BeplnEx/plugins)
+- Updated SPT Realism plugins to 1.1.2
+- Added No hurry Async Bundle 1.1.0 (helped with client to load bundle packed from server)
+- Added Fontaine FOV-Fix 1.11.0-SPT-3.8.0 (Fix FOV for scope)
+- Added SamSWAT FOV Increase (Incase you want moar FOV)
+- Added AmandsGraphics 1.6.0 (MAKE GAME BEAUTIFUL)
+- Added DrakiaXYZ-Quick Move To Container 1.0.2 (Make so that you can Ctrl+Click compatible items into opened container)
+- Added Tyfon-UI Fixes 1.3.3 (Various UI fixes for the game, improve QoL)
+- Added ThatsLit (make bots have the same vision as players)
+- Added Use Items Anywhere (so players can assign hotkey anywhere)
+- Added Ram Cleaner Fix (make so the game not eating ram and trash everywhere)
+- 
+
+### Bundle Files
+- Replace broken files and .bundle files to stop showing unhandle in server logs
+
+
 ## V0.1.2
 Date 2024/05/04
 ### Server Side (user/mods or sometime BeplnEx)
