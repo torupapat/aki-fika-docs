@@ -7,7 +7,7 @@
 4. Create new folder called "SPT-AKI" and put SPT-AKI Installer into that folder
     - Make sure that you have enough space for new copy of the game (at least 60GB)
 5. Now Installer will automatically find EFT location, copy, downgrade and install patcher on its own.
-6. After finished, copy and paste latest Modpack and Bundles files into X:/SPT-AKI 
+6. After finished, copy and paste latest "user" and "BeplnEx" in Modpack and Bundles files into X:/SPT-AKI 
 7. run Aki-server.exe once to make sure that Fika and mods generate necessary files. When its said "Happy Playing!!", close aki-server.exe
 8. run Aki-launcher.exe and click setting
 9. in URL put in http://ip-address:6969 in the box
@@ -17,6 +17,15 @@
 
 
 # Change-Logs
+
+## V0.2.1
+Date 24/05/04
+### Server Side (user/mods or sometime BeplnEx)
+- Added ChooChoo Trader Modding 1.6.2
+
+### Client Side (BeplnEx/plugins)
+- Added ChooChoo Trader Modding 1.6.2's plugins
+- Added Wara Modding Stats Helper 1.0.3 plugins
 
 ## V0.2.0
 Date 2024/05/04
