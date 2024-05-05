@@ -1,5 +1,8 @@
 # aki-fika-docs
 
+## Useful links
+[Patcher](https://pixeldrain.com/u/gr6nXU1N)
+
 1. Download and install latest build of Official Tarkov
 2. After install and/or patching successfully play one offline game (at least you get to spawn in game then you can disconnect of the game and close it)
 3. Download SPT-AKI Installer from [official site](https://ligma.waffle-lord.net/SPTInstaller.exe)
