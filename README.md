@@ -21,6 +21,32 @@
 
 # Change-Logs
 
+## V0.2.2
+Date 24/05/07
+### Server Side (user/mods or sometime BeplnEx)
+- Rearrange server mods load order
+- Adjusted Hephaestus's preset selling price to be more realistic ("discount":55)
+- Added MoreCheckmark 1.5.13 backend
+- Added AmmoStats 3.1.1
+- Added new trader Painter 1.0.3
+- Added Blackcore 1.0.8 (Painter's dependency)
+- Added Mag Tape 1.0.4 (Painter's dependency)
+- Added Compatibility for SPT-Realism
+- Added AnyStand 2.0.0 (for show anything on stands)
+- Added Tactical Gear Component 1.0.6
+- Added Sandcore 1.0.3
+- Added Greencore 1.0.7
+- Added Redcore 1.0.3
+- Added Whitecore 1.0.5
+
+
+### Client Side (BeplnEx/plugins)
+- Added Color Converter API dependency for other mods
+- Added MoreCheckmark 1.5.13
+
+### Bundle Files
+- Repackage bundles to include new mods bundles
+
 ## V0.2.1
 Date 24/05/04
 ### Server Side (user/mods or sometime BeplnEx)
