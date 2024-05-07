@@ -39,13 +39,13 @@ Date 24/05/07
 - Added Redcore 1.0.3
 - Added Whitecore 1.0.5
 
-
 ### Client Side (BeplnEx/plugins)
 - Added Color Converter API dependency for other mods
 - Added MoreCheckmark 1.5.13
 
 ### Bundle Files
 - Repackage bundles to include new mods bundles
+
 
 ## V0.2.1
 Date 24/05/04
