@@ -120,3 +120,10 @@ Date 2024/05/01
 - Added DrakiaXYZ's BigBrain 0.4.0_3.8.0, TaskListFixes 1.4.0, Waypoints 1.4.3
 - Added Bright Laser
 - Added Kaeno-TraderScolling
+
+
+# Known Problem
+## Game crashed without error
+### ENV
+- Windows 11 Pro 23H2 (Build 22631.3447)
+- Nvidia driver version 522.22
